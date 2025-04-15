@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+##Personal Landing Page
 
-Template Name: iLanding
-Template URL: https://bootstrapmade.com/ilanding-bootstrap-landing-page-template/
+
+
+CC:
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
