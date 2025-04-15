@@ -2,6 +2,5 @@
 
 
 
-CC:
-Author: BootstrapMade.com
+Template from Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
